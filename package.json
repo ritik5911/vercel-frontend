@@ -19,9 +19,9 @@
     "date-fns": "^4.1.0",
     "leaflet": "^1.9.4",
     "prop-types": "^15.8.1",
-    "react": "^19.0.0",
+    "react": "^17.0.2",
     "react-date-range": "^2.0.1",
-    "react-dom": "^19.0.0",
+    "react-dom": "^17.0.2",
     "react-elastic-carousel": "^0.11.5",
     "react-hook-form": "^7.51.4",
     "react-hot-toast": "^2.5.1",
@@ -54,5 +54,10 @@
     "prettier-plugin-tailwindcss": "^0.5.14",
     "tailwindcss": "^3.4.3",
     "vite": "^5.4.14"
-  }
+  },
+  "description": "🌐 Explore, Book, Enjoy - Your Ultimate Hotel Booking Solution",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
